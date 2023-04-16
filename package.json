@@ -1,0 +1,21 @@
+{
+  "name": "xanadu-theme",
+  "displayName": "Xanadu Theme",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.77.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Xanadu Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Xanadu Theme-color-theme.json"
+      }
+    ]
+  }
+}
