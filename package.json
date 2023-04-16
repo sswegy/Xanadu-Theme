@@ -6,6 +6,22 @@
   "engines": {
     "vscode": "^1.77.0"
   },
+  "publisher": "sswegy",
+  "author": {
+    "name": "Viktor Velkov"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/sswegy/Xanadu-Theme",
+  "repository": {
+    "type": "github",
+    "url": "https://github.com/sswegy/Xanadu-Theme"
+  },
+  "keywords": [
+    "Xanadu",
+    "Green",
+    "Theme"
+  ],
+  "icon": "Xanadu.png",
   "categories": [
     "Themes"
   ],
